@@ -1,8 +1,8 @@
 {
   "openPhases" : ["phaseBugReporting", "phaseBugTrimming", "phaseTeamResponse", "phaseTesterResponse", "phaseModeration"],
-  "phaseBugReporting": "bugreporting",
-  "phaseBugTrimming": "bugreporting",
-  "phaseTeamResponse": "pe-results",
-  "phaseTesterResponse": "bugreporting",
-  "phaseModeration": "pe-evaluation"
+  "phaseBugReporting": "custom_session",
+  "phaseBugTrimming": "custom_session",
+  "phaseTeamResponse": "custom_session_dev_response",
+  "phaseTesterResponse": "custom_session",
+  "phaseModeration": "custom_session_tutor_response"
 }
